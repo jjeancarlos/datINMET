@@ -47,10 +47,10 @@ A ferramenta permite **selecionar interativamente um ano (2000–2025)**, faz o 
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/jjeancarlos/inmet-data-analyser.git
+git clone https://github.com/jjeancarlos/datINMET.git
 ```
 ```bash
-cd inmet-data-analyser
+cd datINMET
 ```
 
 2. Crie um ambiente virtual (opcional, mas recomendado):
